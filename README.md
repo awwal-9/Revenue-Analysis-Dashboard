@@ -11,4 +11,5 @@ This project used to make a dashboard with the help of tableau
 - Quantity - Discount % correlation
 - Percentage of Revenue per Region
 - Revenue per Category per Gender
-- 
+  
+![Dashboard 1](https://github.com/awwal-9/Revenue-Analysis-Dashboard/assets/145380089/d3cbf2a5-c3d1-4b82-8f85-0f2394d9ae69)
